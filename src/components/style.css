@@ -1,0 +1,28 @@
+.member {
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius:45px ;
+}
+
+.secondary {
+  color: #667085;
+}
+
+.input1{
+  max-width: 80% ;
+}
+
+.sotext {
+  text-align: left;
+  padding-left: 25px;
+}
+
+.ant-btn-default{
+  background-color: #FF5C00;
+  border-radius:45px ;
+}
+
+.ant-btn-primary{
+  background-color: #1B369A;
+  border-radius:45px ;
+}
